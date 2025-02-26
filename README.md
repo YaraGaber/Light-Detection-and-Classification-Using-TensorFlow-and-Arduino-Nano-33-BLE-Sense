@@ -3,6 +3,8 @@
 
 This project demonstrates how to implement **light detection and classification** using an **Arduino Nano 33 BLE Sense** and **TensorFlow Lite**. The system captures light data from the onboard light sensor, processes it using a pre-trained TensorFlow Lite model, and classifies the type of light in real-time. This is a great example of running machine learning on microcontrollers!
 
+![Arduino IDE](https://github.com/YaraGaber/Light-Detection-and-Classification-Using-TensorFlow-and-Arduino-Nano-33-BLE-Sense/blob/main/assets/Arduino%20Nano%2033%20BLE%20Rev2.jpg)  
+*Figure : Uploading the sketch to Arduino Nano 33 BLE Sense.*
 
 
 ## Table of Contents
@@ -93,8 +95,6 @@ Follow these steps to set up the project:
 - Select the correct board and port from the `Tools` menu.
 - Click the `Upload` button to upload the sketch to the Arduino Nano 33 BLE Sense.
 
-![Arduino IDE](https://github.com/YaraGaber/Light-Detection-and-Classification-Using-TensorFlow-and-Arduino-Nano-33-BLE-Sense/blob/main/assets/Arduino%20Nano%2033%20BLE%20Rev2.jpg)  
-*Figure 2: Uploading the sketch to Arduino Nano 33 BLE Sense.*
 
 ### Step 2: Collect Data
 - Use the provided Python script (`collect_data.py`) to collect light intensity data from the onboard sensor.
