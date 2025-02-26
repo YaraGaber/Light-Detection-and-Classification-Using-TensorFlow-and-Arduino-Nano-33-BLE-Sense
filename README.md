@@ -163,17 +163,5 @@ Light-Detection-and-Classification-Using-TensorFlow-and-Arduino-Nano-33-BLE-Sens
   - Double-check the model conversion process.
   - Ensure the model is correctly included in the Arduino sketch.
 
----
-
-## Contributing
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to:
-1. Fork the repository.
-2. Create a new branch.
-3. Submit a Pull Request.
-
-Please ensure your code follows the project's coding standards.
-
----
-
 
 
